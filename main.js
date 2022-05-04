@@ -35,6 +35,11 @@ function checkTest() {
         result ++;
         
     }
+
+    let a6 = document.getElementById("q6").value;
+    if (a6 === "20") {
+        result++;
+    }
     
 
 
